@@ -1,8 +1,10 @@
 """
+
 CP1404/CP5632 Practical
 Kivy GUI program to square a number
 Shin Thant Aung, IT@JCU
 Started 03/01/2023
+
 """
 
 from kivy.app import App
